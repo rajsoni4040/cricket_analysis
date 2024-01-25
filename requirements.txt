@@ -1,0 +1,11 @@
+#requirements
+
+requests
+io
+json
+sqlite3
+zipfile
+sqlite3
+prettytable 
+networkx 
+matplotlib
